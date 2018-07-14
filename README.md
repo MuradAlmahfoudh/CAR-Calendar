@@ -4,6 +4,9 @@
 ## About Code-And-Render Calendar
 Code And Render Calendar is an approach to generate a year calendar in Microsoft Word in 2 steps; coding and rendering. Coding refers to the set of commands user types in a text document that specify the attributes of the calendar to be generated. Rendering refers to dynamically drawing or designing the year calendar according to the commands typed; by executing a Microsoft Word Macro-Enabled document that has a VBA script or program that reads and processes the commands typed from the text document and renders the year calendar accordingly.
 
+### Watch this YouTube Video to grasp the idea of Code-And-Render Calendar
+https://youtu.be/aV3w6vzREj8
+
 ## Code-And-Render Calendar Anatomy
 Code-And-Render Calendar consists of two files:
 - Calendar Executable File (CEF) (Microsoft Word Macro-Enable Document - .docm)
