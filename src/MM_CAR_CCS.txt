@@ -1,0 +1,17 @@
+Regenerate>
+
+Year>
+
+WeekStart>
+Weekend>
+
+Holiday>
+Custom>
+
+HolidayText>
+CustomText>
+
+Title>
+Subtitle>
+
+FontName>
