@@ -18,3 +18,4 @@ Code-And-Render Calendar should be able to run on any Microsoft Windows machine 
 
 ## License
 Code-And-Render Calendar is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+https://creativecommons.org/licenses/by-nc-nd/4.0/
